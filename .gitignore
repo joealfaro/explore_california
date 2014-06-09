@@ -7,4 +7,5 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos
 !assets/vieos/tour_*.mp4
+.idea/
 
